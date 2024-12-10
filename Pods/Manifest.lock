@@ -1,0 +1,16 @@
+PODS:
+  - Solar-dev (3.0.1)
+
+DEPENDENCIES:
+  - Solar-dev
+
+SPEC REPOS:
+  trunk:
+    - Solar-dev
+
+SPEC CHECKSUMS:
+  Solar-dev: 4612dc9878b9fed2667d23b327f1d4e54e16e8d0
+
+PODFILE CHECKSUM: d538f698e856ed950e5488ea59f5490b7e4854b9
+
+COCOAPODS: 1.11.3
